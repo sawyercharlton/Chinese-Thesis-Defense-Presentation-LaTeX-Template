@@ -1,2 +1,2 @@
 # Chinese-thesis-defense-latex-slide
-It's my BUPT thesis defense slide and can be used as the Chinese Thesis Defense Slide Latex Template.
+This is my BUPT thesis defense slide. Welcome to star and use as a Chinese Thesis Defense Slide Latex Template.
