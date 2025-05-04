@@ -9,3 +9,4 @@ data/
 *.ipynb
 test/
 .gitattributes
+/.texpadtmp/

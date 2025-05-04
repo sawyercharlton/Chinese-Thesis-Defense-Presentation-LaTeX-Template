@@ -1,8 +1,9 @@
 # Latex-Chinese-Presentation-Template
-A neat Latex Presentation Template in Chinese which was my Master's thesis defense presentation.
+# 学位论文答辩LaTeX模板
+
 <p align="center">
 <img src="/asset/page1.jpg">
 </p>
 <p align="center">
-<img src="/asset/page5.jpg">
+<img src="/asset/page2.jpg">
 </p>
