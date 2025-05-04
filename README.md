@@ -1,4 +1,4 @@
-# Latex-Chinese-Presentation-Template
+# Chinese-Thesis-Defense-Presentation-LaTeX-Template
 # 学位论文答辩LaTeX模板
 
 <p align="center">
